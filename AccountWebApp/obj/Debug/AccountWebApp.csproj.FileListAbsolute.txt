@@ -1,0 +1,6 @@
+E:\SEIP.NET\Batch 20\2018.10.26\AccountWebApp\AccountWebApp\bin\AccountWebApp.dll.config
+E:\SEIP.NET\Batch 20\2018.10.26\AccountWebApp\AccountWebApp\bin\AccountWebApp.dll
+E:\SEIP.NET\Batch 20\2018.10.26\AccountWebApp\AccountWebApp\bin\AccountWebApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.26\AccountWebApp\AccountWebApp\obj\Debug\AccountWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.26\AccountWebApp\AccountWebApp\obj\Debug\AccountWebApp.dll
+E:\SEIP.NET\Batch 20\2018.10.26\AccountWebApp\AccountWebApp\obj\Debug\AccountWebApp.pdb
